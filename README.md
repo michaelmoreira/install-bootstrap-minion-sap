@@ -1,0 +1,1 @@
+Automation for installing suse manager bootstrap minion
